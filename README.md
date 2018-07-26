@@ -12,3 +12,16 @@ HUGO SETTING:
 2) Make sure base URL is set to the domain name
 3) Now you can compile and copy and paste docs folder over
 
+
+#worfklow to work like this
+
+1. add picture, new post created.
+2. save file, hugo -> compile
+3. push everything to github server
+4. Website re-renders everything
+
+
+#things to do:
+
+1. Add hugo pre-compile into folder. test if renders properly
+2. 
