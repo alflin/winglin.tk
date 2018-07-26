@@ -16,6 +16,12 @@ HUGO SETTING:
 #worfklow to work like this
 
 1. add picture, new post created.
+1. (steps 2-4 can be completed by typing sh `$script.sh` in terminal)
 2. save file, hugo -> compile
 3. push everything to github server
 4. Website re-renders everything
+
+
+#How to use Hugo:
+
+1. hugo new post/xxx to add whatever.
