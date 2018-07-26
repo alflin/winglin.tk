@@ -19,9 +19,3 @@ HUGO SETTING:
 2. save file, hugo -> compile
 3. push everything to github server
 4. Website re-renders everything
-
-
-#things to do:
-
-1. Add hugo pre-compile into folder. test if renders properly
-2. 
