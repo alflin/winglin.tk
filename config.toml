@@ -1,6 +1,6 @@
 baseURL = "https://winglin.tk/"
 languageCode = "en-us"
 title = "Wing Lin"
-theme = "github-project-landing-page"
+theme = "themechange"
 publishDir = "docs"
 
