@@ -1,6 +1,6 @@
 baseURL = "https://winglin.tk/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "gohugo-theme-ananke"
+title = "Wing Lin"
+theme = "github-project-landing-page"
 publishDir = "docs"
 

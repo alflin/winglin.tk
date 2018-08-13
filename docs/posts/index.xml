@@ -18,7 +18,8 @@
       
       <guid>https://winglin.tk/posts/my-first-post/</guid>
       <description>Adding some extra content to test
-#Woohoo new heading</description>
+#Woohoo new heading
+Some Markdown text with some blue text.</description>
     </item>
     
   </channel>
